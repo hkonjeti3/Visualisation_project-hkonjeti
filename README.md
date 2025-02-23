@@ -1,7 +1,8 @@
-# Note: Uploaded all.pbix files and .csv files to google drive because of size issue. https://drive.google.com/drive/folders/1Jii7bndu_nYciMLVZbYBvy9NP3psFTQP?usp=sharing
-
 ## **Analysis of Citi Bike Usage Patterns: Visual Analytics for Urban Mobility Optimization**  
 ### **Author:** Harsha Saketh Konjeti  
+
+### Note: Uploaded all.pbix files and .csv files to google drive because of size issue. https://drive.google.com/drive/folders/1Jii7bndu_nYciMLVZbYBvy9NP3psFTQP?usp=sharing
+
 
 ### **Project Overview**  
 This project explores CitiBike usage patterns to optimize **urban mobility**, improve **bike redistribution**, and provide actionable insights for **CitiBike operators, urban planners, and commuters**. The analysis integrates **Treemaps, Sankey Diagrams, and Heatmaps** to visualize high-demand stations, ride flow, and peak usage times.  
