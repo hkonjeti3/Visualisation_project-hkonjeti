@@ -55,9 +55,9 @@ This project explores CitiBike usage patterns to optimize **urban mobility**, im
 ### **Project Links**  
 - **GitHub Repository**: [CitiBike Visualizations](https://github.com/hkonjeti3/Visualisation_project-hkonjeti)  
 - **Power BI Dashboards**:  
-  - [Treemap Visualization](#) *(Add Power BI link)*  
-  - [Sankey Diagram Visualization](#) *(Add Power BI link)*  
-  - [Heatmap Visualization](#) *(Add Power BI link)*  
+  - [Treemap Visualization](https://app.powerbi.com/links/7qYuzih92r?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare) 
+  - [Sankey Diagram Visualization](https://app.powerbi.com/links/FVGAMflzNq?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare&bookmarkGuid=44ad21b8-56a6-4d4d-a70c-39dd4cc43acf) 
+  - [Heatmap Visualization](https://app.powerbi.com/links/YF6NUhn-yR?ctid=1113be34-aed1-4d00-ab4b-cdd02510be91&pbi_source=linkShare) 
 
 ### **How to Run the Project**  
 1. **Clone the repository**  
